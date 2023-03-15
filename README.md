@@ -8,6 +8,17 @@ There is no new features at the moment.
 
 This project aims to practice front-end development and improve my programming skills.
 
+Screenshots below.
+
+Main page light theme.
+
+![screen_1](images/screenshots/screen01.png)
+
+Main page dark theme.
+
+![screen_2](images/screenshots/screen02.png)
+
+
 ## Technologies used in the project
 
 - HTML5,
